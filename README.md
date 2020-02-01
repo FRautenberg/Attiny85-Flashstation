@@ -71,11 +71,11 @@ The Vcc and Gnd lines are connected between the all three socket positions, ther
 
 
 
-![](pictures/3D View Attiny 85 Flashhat.jpg)
+![](pictures/3D-View-Attiny85Flashhat.jpg)
 
-![](pictures/PCB_Attiny 85 Flashhat.svg)
+![](pictures/PCB_Attiny_85_Flashhat.svg)
 
-![](pictures/pcb_Assembled_left.jpg)
+![](pictures/Schematic_Attiny_85_Flashhat.svg)
 
 ![](pictures/pcb_Assembled_right.jpg)
 
